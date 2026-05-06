@@ -1,5 +1,5 @@
 {
-  "name": "apex-scraper-server",
+  "name": "trading-connections",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
